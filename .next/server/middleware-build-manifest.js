@@ -24,6 +24,11 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/LectureHalls/lecHome/lecHome.js"
     ],
+    "/LectureHalls/lecHome/lecLGFHome": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/LectureHalls/lecHome/lecLGFHome.js"
+    ],
     "/LectureHalls/lecHome/lecSFHome": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
