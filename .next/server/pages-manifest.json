@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/LectureHalls/lecHome/lecGFHome": "pages/LectureHalls/lecHome/lecGFHome.js",
+  "/LectureHalls/lecHome/lecHome": "pages/LectureHalls/lecHome/lecHome.js",
+  "/LectureHalls/lecHome/lecFFHome": "pages/LectureHalls/lecHome/lecFFHome.js",
+  "/LectureHalls/lecHome/lecSFHome": "pages/LectureHalls/lecHome/lecSFHome.js"
+}
