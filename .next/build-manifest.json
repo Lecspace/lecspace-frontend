@@ -22,6 +22,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/Login.js"
     ],
+    "/Profile": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Profile.js"
+    ],
     "/Register": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
